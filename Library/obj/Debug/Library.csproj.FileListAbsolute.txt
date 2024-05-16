@@ -1,0 +1,21 @@
+C:\Users\optimum\source\repos\FeedBackForm_GroupProject\Library\bin\Debug\Library.dll
+C:\Users\optimum\source\repos\FeedBackForm_GroupProject\Library\bin\Debug\Library.pdb
+C:\Users\optimum\source\repos\FeedBackForm_GroupProject\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\optimum\source\repos\FeedBackForm_GroupProject\Library\obj\Debug\Library.dll
+C:\Users\optimum\source\repos\FeedBackForm_GroupProject\Library\obj\Debug\Library.pdb
+C:\Users\optimum\source\repos\FeedBackForm_GroupProject\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+D:\training_projects\Feedback_Project_v3\Library\bin\Debug\Library.dll
+D:\training_projects\Feedback_Project_v3\Library\bin\Debug\Library.pdb
+D:\training_projects\Feedback_Project_v3\Library\obj\Debug\Library.dll
+D:\training_projects\Feedback_Project_v3\Library\obj\Debug\Library.pdb
+E:\HRMS_Api_Project\HRMS_API\Feedback_Project_v3\Library\bin\Debug\Library.dll
+E:\HRMS_Api_Project\HRMS_API\Feedback_Project_v3\Library\bin\Debug\Library.pdb
+E:\HRMS_Api_Project\HRMS_API\Feedback_Project_v3\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+E:\HRMS_Api_Project\HRMS_API\Feedback_Project_v3\Library\obj\Debug\Library.dll
+E:\HRMS_Api_Project\HRMS_API\Feedback_Project_v3\Library\obj\Debug\Library.pdb
+E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Library\bin\Debug\Library.dll
+E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Library\bin\Debug\Library.pdb
+E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Library\obj\Debug\Library.dll
+E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Library\obj\Debug\Library.pdb
+E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache

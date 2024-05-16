@@ -1,0 +1,145 @@
+--------------------------------------------------07-Sep-22 4:17:04 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc() in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 620
+--------------------------------------------------07-Sep-22 4:17:51 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc() in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 620
+--------------------------------------------------07-Sep-22 5:12:15 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc() in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 620
+--------------------------------------------------07-Sep-22 5:14:09 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc() in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 620
+--------------------------------------------------07-Sep-22 5:21:44 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc() in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 620
+--------------------------------------------------07-Sep-22 5:23:50 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc() in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 620
+--------------------------------------------------07-Sep-22 5:24:02 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc() in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 620
+--------------------------------------------------07-Sep-22 5:24:38 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc() in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 620
+--------------------------------------------------07-Sep-22 5:24:38 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc() in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 620
+--------------------------------------------------07-Sep-22 5:25:42 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc(Document en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 619
+--------------------------------------------------07-Sep-22 5:25:42 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc(Document en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 619
+--------------------------------------------------07-Sep-22 5:26:22 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc(Document en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 619
+--------------------------------------------------07-Sep-22 5:26:22 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc(Document en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 619
+--------------------------------------------------07-Sep-22 5:27:28 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc(Document en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 619
+--------------------------------------------------07-Sep-22 5:27:28 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc(Document en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 619
+--------------------------------------------------07-Sep-22 5:30:17 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc(Document en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 619
+--------------------------------------------------07-Sep-22 5:30:34 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc(Document en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 619
+--------------------------------------------------07-Sep-22 5:30:34 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc(Document en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 619
+--------------------------------------------------07-Sep-22 5:31:57 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc(Document en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 619
+--------------------------------------------------07-Sep-22 5:35:18 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc(Document en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 619
+--------------------------------------------------07-Sep-22 5:35:28 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc(Document en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 619
+--------------------------------------------------07-Sep-22 5:36:41 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc(Document en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 619
+--------------------------------------------------07-Sep-22 5:37:27 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc(DocumentData en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 619
+--------------------------------------------------07-Sep-22 5:38:13 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc(DocumentData en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 619
+--------------------------------------------------07-Sep-22 5:38:13 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc(DocumentData en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 619
+--------------------------------------------------07-Sep-22 5:40:48 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc(Document en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 617
+--------------------------------------------------07-Sep-22 5:41:37 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc(Document en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 617
+--------------------------------------------------07-Sep-22 5:43:14 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc(Document en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 617
+--------------------------------------------------07-Sep-22 5:46:12 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc(Document en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 617
+--------------------------------------------------07-Sep-22 5:53:16 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc(Document en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 619
+--------------------------------------------------07-Sep-22 5:53:22 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc(Document en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 619
+--------------------------------------------------07-Sep-22 5:55:53 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc(Document en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 619
+--------------------------------------------------07-Sep-22 5:57:04 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc(Document en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 619
+--------------------------------------------------07-Sep-22 5:57:04 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc(Document en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 619
+--------------------------------------------------07-Sep-22 6:01:57 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc(Document en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 618
+--------------------------------------------------07-Sep-22 6:03:43 PM--------------------------------------------------
+Controller : utilities in set_refer(): Object reference not set to an instance of an object.InnerExceptionStackTrace :   at Feedback_API.Controllers.AdminController.uploaddoc() in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 618
+--------------------------------------------------07-Sep-22 6:10:44 PM--------------------------------------------------
+Error in BL => class - Utilities_BL => method - ins_refernce() : Message:@doc_type_id is not a parameter for procedure reference_sp.stacktrace:   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at BL.Admin_BL.ins_document(Document en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\BL\Admin_BL.cs:line 571
+--------------------------------------------------07-Sep-22 6:10:48 PM--------------------------------------------------
+Error in BL => class - Utilities_BL => method - ins_refernce() : Message:@doc_type_id is not a parameter for procedure reference_sp.stacktrace:   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at BL.Admin_BL.ins_document(Document en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\BL\Admin_BL.cs:line 571
+--------------------------------------------------07-Sep-22 6:10:52 PM--------------------------------------------------
+Error in BL => class - Utilities_BL => method - ins_refernce() : Message:@doc_type_id is not a parameter for procedure reference_sp.stacktrace:   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at BL.Admin_BL.ins_document(Document en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\BL\Admin_BL.cs:line 571
+--------------------------------------------------07-Sep-22 6:10:53 PM--------------------------------------------------
+Error in BL => class - Utilities_BL => method - ins_refernce() : Message:@doc_type_id is not a parameter for procedure reference_sp.stacktrace:   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at BL.Admin_BL.ins_document(Document en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\BL\Admin_BL.cs:line 571
+--------------------------------------------------07-Sep-22 6:11:01 PM--------------------------------------------------
+Error in BL => class - Utilities_BL => method - ins_refernce() : Message:@doc_type_id is not a parameter for procedure reference_sp.stacktrace:   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at BL.Admin_BL.ins_document(Document en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\BL\Admin_BL.cs:line 571
+--------------------------------------------------07-Sep-22 6:11:01 PM--------------------------------------------------
+Error in BL => class - Utilities_BL => method - ins_refernce() : Message:@doc_type_id is not a parameter for procedure reference_sp.stacktrace:   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at BL.Admin_BL.ins_document(Document en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\BL\Admin_BL.cs:line 571
+--------------------------------------------------07-Sep-22 6:11:29 PM--------------------------------------------------
+Controller : utilities in set_refer(): The process cannot access the file 'E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Assets\refer_cv_doc\19\jay raj patel (1).pdf' because it is being used by another process.InnerExceptionStackTrace :   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at System.Web.HttpPostedFile.SaveAs(String filename)
+   at Feedback_API.Controllers.AdminController.uploaddoc() in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\AdminController.cs:line 627

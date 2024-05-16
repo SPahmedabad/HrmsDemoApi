@@ -1,0 +1,52 @@
+--------------------------------------------------8/10/2022 12:39:02 PM--------------------------------------------------
+Error on submint button click inserting data in main table : Message:Thread was being aborted.stacktrace:   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at FeedBackForm_GroupProject.FeedbackForm.btnSubmit_Click(Object sender, EventArgs e) in D:\training_projects\Feedback_Project_v3\FeedBackForm_GroupProject\FeedbackForm.aspx.cs:line 310
+--------------------------------------------------8/10/2022 12:39:02 PM--------------------------------------------------
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at FeedBackForm_GroupProject.FeedbackForm.btnSubmit_Click(Object sender, EventArgs e) in D:\training_projects\Feedback_Project_v3\FeedBackForm_GroupProject\FeedbackForm.aspx.cs:line 327
+--------------------------------------------------8/10/2022 12:45:13 PM--------------------------------------------------
+Error on submint button click inserting data in main table : Message:Thread was being aborted.stacktrace:   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at FeedBackForm_GroupProject.FeedbackForm.btnSubmit_Click(Object sender, EventArgs e) in D:\training_projects\Feedback_Project_v3\FeedBackForm_GroupProject\FeedbackForm.aspx.cs:line 310
+--------------------------------------------------8/10/2022 12:45:13 PM--------------------------------------------------
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at FeedBackForm_GroupProject.FeedbackForm.btnSubmit_Click(Object sender, EventArgs e) in D:\training_projects\Feedback_Project_v3\FeedBackForm_GroupProject\FeedbackForm.aspx.cs:line 327
+--------------------------------------------------8/10/2022 12:50:14 PM--------------------------------------------------
+DeptGetDataListviewAPI : Get_Listview_Mis_Data : Object reference not set to an instance of an object.InnerExceptionStackTrace :   at FeedBackForm_GroupProject.MIS_Report.bindmoduleddl(Int32 dept_id) in D:\training_projects\Feedback_Project_v3\FeedBackForm_GroupProject\MIS_Report.aspx.cs:line 112
+   at FeedBackForm_GroupProject.MIS_Report.ddl_dept_SelectedIndexChanged(Object sender, EventArgs e) in D:\training_projects\Feedback_Project_v3\FeedBackForm_GroupProject\MIS_Report.aspx.cs:line 75
+--------------------------------------------------8/10/2022 12:50:33 PM--------------------------------------------------
+DeptGetDataListviewAPI : Get_Listview_Mis_Data : Object reference not set to an instance of an object.InnerExceptionStackTrace :   at FeedBackForm_GroupProject.MIS_Report.bindmoduleddl(Int32 dept_id) in D:\training_projects\Feedback_Project_v3\FeedBackForm_GroupProject\MIS_Report.aspx.cs:line 112
+   at FeedBackForm_GroupProject.MIS_Report.ddl_dept_SelectedIndexChanged(Object sender, EventArgs e) in D:\training_projects\Feedback_Project_v3\FeedBackForm_GroupProject\MIS_Report.aspx.cs:line 75
+--------------------------------------------------8/10/2022 12:51:07 PM--------------------------------------------------
+DeptGetDataListviewAPI : Get_Listview_Mis_Data : Object reference not set to an instance of an object.InnerExceptionStackTrace :   at FeedBackForm_GroupProject.MIS_Report.bindmoduleddl(Int32 dept_id) in D:\training_projects\Feedback_Project_v3\FeedBackForm_GroupProject\MIS_Report.aspx.cs:line 112
+   at FeedBackForm_GroupProject.MIS_Report.ddl_dept_SelectedIndexChanged(Object sender, EventArgs e) in D:\training_projects\Feedback_Project_v3\FeedBackForm_GroupProject\MIS_Report.aspx.cs:line 75
+--------------------------------------------------8/10/2022 12:54:20 PM--------------------------------------------------
+DeptGetDataListviewAPI : Get_Listview_Mis_Data : Object reference not set to an instance of an object.InnerExceptionStackTrace :   at FeedBackForm_GroupProject.MIS_Report.bindmoduleddl(Int32 dept_id) in D:\training_projects\Feedback_Project_v3\FeedBackForm_GroupProject\MIS_Report.aspx.cs:line 112
+   at FeedBackForm_GroupProject.MIS_Report.ddl_dept_SelectedIndexChanged(Object sender, EventArgs e) in D:\training_projects\Feedback_Project_v3\FeedBackForm_GroupProject\MIS_Report.aspx.cs:line 75
+--------------------------------------------------8/10/2022 12:56:56 PM--------------------------------------------------
+DeptGetDataListviewAPI : Get_Listview_Mis_Data : Object reference not set to an instance of an object.InnerExceptionStackTrace :   at FeedBackForm_GroupProject.MIS_Report.bindmoduleddl(Int32 dept_id) in D:\training_projects\Feedback_Project_v3\FeedBackForm_GroupProject\MIS_Report.aspx.cs:line 112
+   at FeedBackForm_GroupProject.MIS_Report.ddl_dept_SelectedIndexChanged(Object sender, EventArgs e) in D:\training_projects\Feedback_Project_v3\FeedBackForm_GroupProject\MIS_Report.aspx.cs:line 75
+--------------------------------------------------8/10/2022 12:58:59 PM--------------------------------------------------
+DeptGetDataListviewAPI : Get_Listview_Mis_Data : Object reference not set to an instance of an object.InnerExceptionStackTrace :   at FeedBackForm_GroupProject.MIS_Report.bindmoduleddl(Int32 dept_id) in D:\training_projects\Feedback_Project_v3\FeedBackForm_GroupProject\MIS_Report.aspx.cs:line 112
+   at FeedBackForm_GroupProject.MIS_Report.ddl_dept_SelectedIndexChanged(Object sender, EventArgs e) in D:\training_projects\Feedback_Project_v3\FeedBackForm_GroupProject\MIS_Report.aspx.cs:line 75
+--------------------------------------------------8/10/2022 3:22:34 PM--------------------------------------------------
+Someone try to modify QuaryString -- Error while calling Decrypt() method : Invalid length for a Base-64 char array or string. StackTrace :    at System.Convert.FromBase64_Decode(Char* startInputPtr, Int32 inputLength, Byte* startDestPtr, Int32 destLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at BL.Operation.Decrypt(String cipherText) in D:\training_projects\Feedback_Project_v3\BL\Operation.cs:line 570
+--------------------------------------------------8/10/2022 4:45:18 PM--------------------------------------------------
+module ddl binding and retive selection on change event of ddl E_Message : Object reference not set to an instance of an object.InnerExceptionStackTrace :   at FeedBackForm_GroupProject.Admin_ViewData.ddl_module_SelectedIndexChanged(Object sender, EventArgs e)
+--------------------------------------------------8/10/2022 5:27:19 PM--------------------------------------------------
+Someone try to modify QuaryString -- Error while calling Decrypt() method : Invalid length for a Base-64 char array or string. StackTrace :    at System.Convert.FromBase64_Decode(Char* startInputPtr, Int32 inputLength, Byte* startDestPtr, Int32 destLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at BL.Operation.Decrypt(String cipherText) in D:\training_projects\Feedback_Project_v3\BL\Operation.cs:line 570

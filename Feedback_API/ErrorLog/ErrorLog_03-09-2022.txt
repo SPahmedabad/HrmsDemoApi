@@ -1,0 +1,32 @@
+--------------------------------------------------03-Sep-22 12:45:08 PM--------------------------------------------------
+Error in upload_Image_User/upload_Image_User...message:Object reference not set to an instance of an object.StackTrace:   at Feedback_API.Controllers.ProfileController.upload_Image_User() in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\ProfileController.cs:line 158
+--------------------------------------------------03-Sep-22 12:46:17 PM--------------------------------------------------
+Error in upload_Image_User/upload_Image_User...message:Object reference not set to an instance of an object.StackTrace:   at Feedback_API.Controllers.ProfileController.upload_Image_User() in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\ProfileController.cs:line 158
+--------------------------------------------------03-Sep-22 12:46:35 PM--------------------------------------------------
+Error in upload_Image_User/upload_Image_User...message:Object reference not set to an instance of an object.StackTrace:   at Feedback_API.Controllers.ProfileController.upload_Image_User() in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\ProfileController.cs:line 158
+--------------------------------------------------03-Sep-22 12:47:57 PM--------------------------------------------------
+Error in upload_Image_User/upload_Image_User...message:Object reference not set to an instance of an object.StackTrace:   at Feedback_API.Controllers.ProfileController.upload_Image_User() in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\ProfileController.cs:line 158
+--------------------------------------------------03-Sep-22 7:07:39 PM--------------------------------------------------
+Dashboard : newempjoindata : Invalid URI: The format of the URI could not be determined.InnerExceptionStackTrace :   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at BL.Utilities_BL.sendMail(DataTable dt, sendmaientityl en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\BL\Utilities_BL.cs:line 416
+   at Feedback_API.Controllers.utilitiesController.resign_emp(Resignationentity en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\utilitiesController.cs:line 379
+--------------------------------------------------03-Sep-22 7:51:48 PM--------------------------------------------------
+class -> utilities, method -> UpdateLeave 
+Message :There is no row at position 0.
+HResult:-2146233080
+--------------------------------------------------03-Sep-22 7:58:07 PM--------------------------------------------------
+class -> utilities, method -> UpdateLeave 
+Message :The parameter 'addresses' cannot be an empty string.
+Parameter name: addresses
+HResult:-2147024809
+--------------------------------------------------03-Sep-22 7:59:30 PM--------------------------------------------------
+class -> utilities, method -> UpdateLeave 
+Message :The parameter 'addresses' cannot be an empty string.
+Parameter name: addresses
+HResult:-2147024809
+--------------------------------------------------03-Sep-22 8:00:58 PM--------------------------------------------------
+class -> utilities, method -> UpdateLeave 
+Message :The parameter 'addresses' cannot be an empty string.
+Parameter name: addresses
+HResult:-2147024809

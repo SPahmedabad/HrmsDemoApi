@@ -1,0 +1,2 @@
+--------------------------------------------------13-Sep-22 12:13:45 PM--------------------------------------------------
+Controller : utilities in DownloadDoc(): Index was outside the bounds of the array.InnerExceptionStackTrace :   at Feedback_API.Controllers.ReportsController.DownloadDoc(Document en) in E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Feedback_API\Controllers\ReportsController.cs:line 433

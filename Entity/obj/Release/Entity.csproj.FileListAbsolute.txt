@@ -1,0 +1,15 @@
+C:\Users\optimum\source\repos\FeedBackForm_GroupProject\Entity\bin\Release\Entity.dll
+C:\Users\optimum\source\repos\FeedBackForm_GroupProject\Entity\bin\Release\Entity.pdb
+C:\Users\optimum\source\repos\FeedBackForm_GroupProject\Entity\obj\Release\Entity.csproj.AssemblyReference.cache
+C:\Users\optimum\source\repos\FeedBackForm_GroupProject\Entity\obj\Release\Entity.csproj.CoreCompileInputs.cache
+C:\Users\optimum\source\repos\FeedBackForm_GroupProject\Entity\obj\Release\Entity.dll
+C:\Users\optimum\source\repos\FeedBackForm_GroupProject\Entity\obj\Release\Entity.pdb
+D:\training_projects\Feedback_Project_v3\Entity\bin\Release\Entity.dll
+D:\training_projects\Feedback_Project_v3\Entity\bin\Release\Entity.pdb
+D:\training_projects\Feedback_Project_v3\Entity\obj\Release\Entity.dll
+D:\training_projects\Feedback_Project_v3\Entity\obj\Release\Entity.pdb
+E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Entity\bin\Release\Entity.dll
+E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Entity\bin\Release\Entity.pdb
+E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Entity\obj\Release\Entity.dll
+E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Entity\obj\Release\Entity.pdb
+E:\HRMS V2\HRMS_API_Updated\HRMS_API_Updated\Feedback_Project_v3\Entity\obj\Release\Entity.csprojResolveAssemblyReference.cache
